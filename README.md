@@ -1,2 +1,4 @@
 # Git 
-# basic git commands
+```
+basic git commands
+```
