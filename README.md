@@ -5,3 +5,4 @@ basic git commands
 - game learning [learngitbranching](https://learngitbranching.js.org/?locale=ru_RU)
 - Создание скриптов [bash](https://www.youtube.com/watch?v=PpmyVXCdiDY)
 - linux [youtube](https://www.youtube.com/watch?v=fbP2gyy5aE0)
+- Linux [Статья-шпаргалка для новичков](https://habr.com/ru/company/timeweb/blog/668344/)
